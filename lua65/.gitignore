@@ -1,0 +1,8 @@
+build/
+*.asm
+*.o
+*.nes
+*.dbg
+*.fns
+*.map
+*.bin
