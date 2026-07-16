@@ -6,3 +6,14 @@ build/
 *.fns
 *.map
 *.bin
+
+.luarocks/
+lua_modules/
+*.rock
+*.rockspec.lock
+
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+*.log
